@@ -13,7 +13,6 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 - 🖥️ Técnico em Informática  
 - 🎓 Graduação em Analise e Desenvolvimento de Software em andamento (Previsão de formatura em dezembro de 2025, pela universidade Anhanguera)
 - 📚 Meu foco atualmente é Java, Springboot, e desenvolvimento backend
-- 
 
 
 ---
@@ -77,5 +76,4 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 
 ---
 
-> 🧠 *“A tecnologia move o mundo, mas quem a move são os curiosos.”*
 
