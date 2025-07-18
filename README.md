@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Alessandro</h1>
+<h1 align="center">👨‍💻 Olá, eu sou Alessandro</h1>
 
 <p align="center">
 Desenvolvedor Backend | Java | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia
@@ -11,7 +11,7 @@ Desenvolvedor Backend | Java | Estudante de Análise e Desenvolvimento de Sistem
 Sou um profissional em transição de carreira com 17 anos de experiência em diferentes sertores, incluindo atuação como técnico em informática, atualmente focado em Desenvolvimento de Software. 
 
 - 🖥️ Técnico em Informática  
-- 🎓 Graduação em Analise e Desenvolvimento de Software em andamento (Previsão de formatura em dezembro de 2025, pela universidade Anhanguera)
+- 🎓 Graduação em Analise e Desenvolvimento de Sistemas em andamento (Previsão de formatura em dezembro de 2025, pela universidade Anhanguera)
 - 📚 Meu foco atualmente é Java, Springboot, e desenvolvimento backend
 
 
@@ -22,8 +22,8 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> 
 </p>
 
 ---
