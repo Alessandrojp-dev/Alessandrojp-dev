@@ -8,7 +8,7 @@ Desenvolvedor Backend | Java | Estudante de Análise e Desenvolvimento de Sistem
 
 ### 👨‍💼 Sobre mim
 
-Sou um profissional em transição de carreira com 17 anos de experiência em diferentes sertores, incluindo atuação como técnico em informática, atualmente focado em Desenvolvimento de Software. 
+Sou um profissional em transição de carreira com 17 anos de experiência em diferentes setores, incluindo atuação como técnico em informática, atualmente focado em Desenvolvimento de Software. 
 
 - 🖥️ Técnico em Informática  
 - 🎓 Graduação em Analise e Desenvolvimento de Sistemas em andamento (Previsão de formatura em dezembro de 2025, pela universidade Anhanguera)
