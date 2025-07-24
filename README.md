@@ -17,7 +17,8 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que já tenho domínio 
+### 🛠️ Tecnologias e Ferramentas
+- Tecnologias e Ferramentas que venho estudando de forma contínua e prática há bastante tempo, com bom nível de conhecimento e aplicação.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -28,33 +29,75 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 
 ---
 
+### 🛠️ Estou Aprendendo Atualmente
+- Tecnologias e Ferramentas que estou atualmente estudando e aprofundando meus conhecimentos por meio de cursos, projetos ou prática.
 
-### 🛠️ Tecnologias e Ferramentas que tenho familiaridade
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+</p>
+
+
+---
+
+### 🛠️ Meu RoadMap
+- Tecnologias e Ferramentas que pretendo estudar de acordo com meu RoadMap, minha evolução.
+
+<!-- Banco de Dados -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+
+ <!-- Servidores e Middleware -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Tomcat"/>
+
+<!-- Gerenciamento de Build -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle"/>
+
+<!-- Formatos de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="XML"/>
+
+<!-- APIs, Microsserviços e Containers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Apache Kafka"/>
+
+<!-- Testes e Documentação de APIs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="Insomnia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium"/>
+
+<!-- Cloud / Plataforma / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="Amazon Web Services"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+
+<!-- Linguagens e IDE -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+</p>
+
+
+---
+
+### 🛠️ Conhecimento Básico
+- Tecnologias e Ferramentas com as quais já tive contato em projetos, testes ou estudos pontuais, possuindo familiaridade inicial.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
 </p>
-
 
 ---
 
 
-### 🛠️ Tecnologias e Ferramentas que Estou Aprendendo
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="Hibernate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Tomcat"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku"/>
-</p>
 
 ---
 
@@ -75,5 +118,3 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 </p>
 
 ---
-
-
