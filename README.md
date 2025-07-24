@@ -42,7 +42,7 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 ---
 
 ### 🛠️ Meu RoadMap
-- Tecnologias e Ferramentas que pretendo estudar de acordo com meu RoadMap, minha evolução.
+- Tecnologias e Ferramentas que pretendo estudar de acordo com meu RoadMap e minha evolução.
 
 <!-- Banco de Dados -->
 <p align="left">
