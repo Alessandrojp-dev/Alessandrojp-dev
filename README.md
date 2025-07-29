@@ -58,6 +58,9 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   
  <!-- Servidores e Middleware -->
+ <!-- Apache Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Apache Maven"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Tomcat"/>
 
 <!-- Gerenciamento de Build -->
