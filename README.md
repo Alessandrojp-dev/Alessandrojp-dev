@@ -60,8 +60,8 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   
- <!-- Servidores e Middleware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Tomcat"/>
+ <!-- Servidores e Middleware 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Tomcat"/>-->
 
 <!-- Gerenciamento de Build -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle" style="margin-left:10px;" />
