@@ -45,7 +45,8 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="44" alt="Postman" style="margin-left:10px;"/>
-  <img src="https://skillicons.dev/icons?i=heroku" style="width:42px;"/> 
+  <img src="https://skillicons.dev/icons?i=heroku" style="width:42px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="44" alt="IntelliJ IDEA"/>
 </p>
 
 
@@ -96,7 +97,6 @@ Sou um profissional em transição de carreira com 17 anos de experiência em di
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="38" alt="NetBeans"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
 </p>
